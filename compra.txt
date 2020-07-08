@@ -1,0 +1,32 @@
+---------- Item adicionado no carrinho ----------
+Codigo de produto:  1
+Descricao do produto: ARROS
+Preco unit do produto: 5.0
+--------------------------------------------------
+
+---------- Item adicionado no carrinho ----------
+Codigo de produto:  2
+Descricao do produto: ZEAL
+Preco unit do produto: 4.0
+--------------------------------------------------
+
+----------------------------------------------
+Data da Compra: 2020-07-07
+Preco total da Compra: 9.0
+----------------------------------------------
+---------- Item adicionado no carrinho ----------
+Codigo de produto:  2
+Descricao do produto: ARROZ\
+Preco unit do produto: 5.0
+--------------------------------------------------
+
+---------- Item adicionado no carrinho ----------
+Codigo de produto:  1
+Descricao do produto: CENOURA
+Preco unit do produto: 5.0
+--------------------------------------------------
+
+----------------------------------------------
+Data da Compra: 2020-07-07
+Preco total da Compra: 10.0
+----------------------------------------------
